@@ -11,4 +11,4 @@ This is a thing I do, nice to meet you. Please forgive me for learning.
 - 😄 Pronouns: People call me floris, mrfloris, I am not fund of nicknames beyond that.
 - ⚡ Fun fact: The rabbit hole goes deeper than you might ever realise[.](creations.nl) Please be kind to others.
 
-_(github v1, build 001, last updated September 28th, 2020)_
+_(github v1, build 002, last updated January 16th, 2021)_
