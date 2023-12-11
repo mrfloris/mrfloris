@@ -15,4 +15,4 @@ I'm involved in various endeavors, and it's a pleasure to make your acquaintance
 
 ## Version
 
-Version 1.1.0, build 004, last updated on July 23rd, 2023
+Version 1.1.0, build 005, last updated on December 11th, 2023
